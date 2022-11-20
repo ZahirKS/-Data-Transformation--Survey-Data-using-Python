@@ -1,9 +1,9 @@
-# Survey Data Manipulation using Python
-Data manipulation means to organize or arrange the kind of structured data that is read by computer programs so that it’s easier to interpret. Performing this process effectively can improve the quality of your data and analysis.
+# Data Transformation of Survey data using Python
 
-Data manipulation is important because it allows you to easily access the information that’s critical to your specific business and goals. This process can be tailored to identify different data sets as your company grows or makes adjustments due to market demand. Data manipulation is also a valuable tool in identifying and correcting data redundancies in reporting.
-## Perks of Data Manipulation,
-1. Consistent and organized data
-2. Insightful project data access
-3. More valuable data
-4. Reduces unnecessary data points
+Data transformation is the process of changing the format, structure, or values of data. For data analytics projects, data may be transformed at two stages of the data pipeline. Organizations that use on-premises data warehouses generally use an ETL (extract, transform, load) process, in which data transformation is the middle step. Today, most organizations use cloud-based data warehouses, which can scale compute and storage resources with latency measured in seconds or minutes. The scalability of the cloud platform lets organizations skip preload transformations and load raw data into the data warehouse, then transform it at query time — a model called ELT ( extract, load, transform).
+
+
+## Keys ascepts of the project,
+1. Data is transformed to make it better-organized. Transformed data may be easier for both humans and computers to use.
+2. Properly formatted and validated data improves data quality and protects applications from potential landmines such as null values, unexpected duplicates, incorrect indexing, and incompatible formats.
+3. Data transformation facilitates compatibility between applications, systems, and types of data. Data used for multiple purposes may need to be transformed in different ways..
